@@ -1,1 +1,2 @@
 Meu primeiro arquivo Git!
+Estou Aprendendo Git com o ChatGPT Agora 22/07/25
