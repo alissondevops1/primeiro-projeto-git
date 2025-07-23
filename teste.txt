@@ -1,2 +1,3 @@
 Meu primeiro arquivo Git!
 Estou Aprendendo Git com o ChatGPT Agora 22/07/25
+Adicionei um branch agora mudando exatamente as 22:42 
